@@ -1,0 +1,15 @@
+C:\Cegep\Prog\Exercise\LaboMethodes\bin\Debug\net6.0\methodes.exe
+C:\Cegep\Prog\Exercise\LaboMethodes\bin\Debug\net6.0\methodes.deps.json
+C:\Cegep\Prog\Exercise\LaboMethodes\bin\Debug\net6.0\methodes.runtimeconfig.json
+C:\Cegep\Prog\Exercise\LaboMethodes\bin\Debug\net6.0\methodes.dll
+C:\Cegep\Prog\Exercise\LaboMethodes\bin\Debug\net6.0\methodes.pdb
+C:\Cegep\Prog\Exercise\LaboMethodes\obj\Debug\net6.0\methodes.csproj.AssemblyReference.cache
+C:\Cegep\Prog\Exercise\LaboMethodes\obj\Debug\net6.0\methodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cegep\Prog\Exercise\LaboMethodes\obj\Debug\net6.0\methodes.AssemblyInfoInputs.cache
+C:\Cegep\Prog\Exercise\LaboMethodes\obj\Debug\net6.0\methodes.AssemblyInfo.cs
+C:\Cegep\Prog\Exercise\LaboMethodes\obj\Debug\net6.0\methodes.csproj.CoreCompileInputs.cache
+C:\Cegep\Prog\Exercise\LaboMethodes\obj\Debug\net6.0\methodes.dll
+C:\Cegep\Prog\Exercise\LaboMethodes\obj\Debug\net6.0\refint\methodes.dll
+C:\Cegep\Prog\Exercise\LaboMethodes\obj\Debug\net6.0\methodes.pdb
+C:\Cegep\Prog\Exercise\LaboMethodes\obj\Debug\net6.0\methodes.genruntimeconfig.cache
+C:\Cegep\Prog\Exercise\LaboMethodes\obj\Debug\net6.0\ref\methodes.dll
